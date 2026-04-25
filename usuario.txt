@@ -1,0 +1,2 @@
+Usuario=vmello
+Usuario ID=uid=1000(vmello) gid=1000(vmello) grupos=1000(vmello),10(wheel) contexto=unconfined_u:unconfined_r:unconfined_t:s0-s0:c0.c1023
